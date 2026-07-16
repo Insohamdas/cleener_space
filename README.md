@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=Cleener" alt="Cleener Logo" width="120" height="120" />
 
   <h1>🧹 Cleener Space</h1>
   
